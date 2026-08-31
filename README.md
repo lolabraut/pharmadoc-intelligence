@@ -119,6 +119,8 @@ It also answered compliance questions such as:
 
 The system correctly identified that the material contained no animal or human-origin material and referenced EMEA/410/01.
 
+![BSE/TSE compliance query result](pharmadoc-result-compliance.png)
+
 ## Testing-Driven Improvement
 
 During testing, OCR initially failed to extract the Process Run ID from a rotated dosimetry document.
