@@ -111,6 +111,8 @@ It retrieved four relevant chunks and returned:
 - Release date: 08/29/2025
 - Retest date: 06/16/2029
 
+![Certificate of Quality query result](pharmadoc-result-certificate.png)
+
 It also answered compliance questions such as:
 
 > Does Kollidon SR contain any material of animal or human origin, and which BSE/TSE guidance does it meet?
