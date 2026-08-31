@@ -164,9 +164,10 @@ Potential improvements include:
 - evaluation
 - technical documentation
 
-## Notebook
+## Project Files
 
-The full end-to-end implementation is available in the notebook included in this repository.
+- [View the full implementation notebook](PharmaDoc_Intelligence.ipynb)
+- [View the final project presentation](Lola_Braut_Pfizer_Final_Presentation.pdf)
 
 ## Project Context
 
