@@ -6,7 +6,7 @@ AI-powered pharmaceutical document intelligence system for extracting reliable, 
 
 ## Overview
 
-PharmaDoc Intelligence was developed as part of the Pfizer Advanced AI-Powered Document Insights and Data Extraction externship.
+PharmaDoc Intelligence was developed as part of the Pfizer Advanced AI-Powered Document Insights and Data Extraction externship, delivered by Extern.
 
 The system processes pharmaceutical PDFs, including scanned and rotated documents, and allows users to ask questions through an interactive Gradio interface. It combines OCR, document routing, semantic retrieval, and a local language model to produce answers with page-level source attribution.
 
